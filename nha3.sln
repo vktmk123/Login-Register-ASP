@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nha3", "nha3\nha3.csproj", "{9399CF05-DF80-4011-B0B2-FC671A1D5D0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9399CF05-DF80-4011-B0B2-FC671A1D5D0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9399CF05-DF80-4011-B0B2-FC671A1D5D0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9399CF05-DF80-4011-B0B2-FC671A1D5D0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9399CF05-DF80-4011-B0B2-FC671A1D5D0F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {726AE25F-F7E1-46C9-9DAB-D5DD65FE5F71}
+	EndGlobalSection
+EndGlobal
